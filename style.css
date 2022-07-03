@@ -12,3 +12,15 @@ p{
     text-align: center;
     line-height: 22px;
 }
+
+h2{
+    color:red;
+    background-color: burlywood;
+    text-align: center;
+}
+
+h3{
+    color:rgb(57, 23, 151);
+    background-color: rgb(34, 172, 46);
+    text-align: center;
+}
